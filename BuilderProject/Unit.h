@@ -8,7 +8,9 @@ enum class UnitID {
 	Cavalery,
 	Special,
 	Elephant,
-	Catapult
+	Catapult,
+	Tank,
+	Saper
 };
 
 class Unit
